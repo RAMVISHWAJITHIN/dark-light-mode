@@ -14,7 +14,7 @@ const Card = ({ title, content, image }) => {
       {image && <img src={image} alt={title} className="w-full h-64 object-cover rounded-t-lg" />}
       <div className="card-content mt-4">
         <h2 className="text-2xl font-semibold">{title}</h2>
-        <p className="text-gray-600 mt-2">{content}</p>
+        <p className="text-white-600 mt-2">{content}</p>
       </div>
     </div>
   );
