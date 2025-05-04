@@ -13,7 +13,7 @@ const App = () => {
           <Card
             title="Beautiful Sunset"
             content="A beautiful sunset view captured in the mountains."
-            image="https://musclecar.uk/wp-content/uploads/2024/08/PMV8-19-Mustang-John_Wick-001.jpg"
+            image="https://www.motortrend.com/uploads/f/70428996.jpg"
           />
         </div>
       </div>
